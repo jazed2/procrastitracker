@@ -22,3 +22,4 @@ Standard: Cpp11
 Cpp11BracedListStyle: false
 IndentPPDirectives: BeforeHash
 AlwaysBreakTemplateDeclarations: false
+
